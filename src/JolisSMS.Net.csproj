@@ -6,6 +6,8 @@
     <Authors>https://twitter.com/jkulubya</Authors>
     <Description>Send SMS via the Jolis.net API</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://github.com/jkulubya/JolisSMS.Net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jkulubya/JolisSMS.Net</PackageProjectUrl>
     <PackageTags>jolis.net SMS</PackageTags>
     <RepositoryUrl>https://github.com/jkulubya/JolisSMS.Net</RepositoryUrl>
   </PropertyGroup>
