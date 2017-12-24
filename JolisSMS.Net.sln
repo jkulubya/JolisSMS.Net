@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JolisSMS.Net", "src\JolisSMS.Net.csproj", "{96BE6E89-1133-499B-BB0C-A931C0DA8489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{69E8DDF5-429F-4FC8-ABC5-748174A29D76}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|x64.ActiveCfg = Debug|x64
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|x64.Build.0 = Debug|x64
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|x86.ActiveCfg = Debug|x86
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Debug|x86.Build.0 = Debug|x86
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|x64.ActiveCfg = Release|x64
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|x64.Build.0 = Release|x64
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|x86.ActiveCfg = Release|x86
+		{96BE6E89-1133-499B-BB0C-A931C0DA8489}.Release|x86.Build.0 = Release|x86
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|x64.ActiveCfg = Debug|x64
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|x64.Build.0 = Debug|x64
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|x86.ActiveCfg = Debug|x86
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Debug|x86.Build.0 = Debug|x86
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|x64.ActiveCfg = Release|x64
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|x64.Build.0 = Release|x64
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|x86.ActiveCfg = Release|x86
+		{69E8DDF5-429F-4FC8-ABC5-748174A29D76}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
